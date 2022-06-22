@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning django-sqlite
 - 💞️ I’m looking to collaborate on web developer
-- 📫 How to reach me kreza6517@gmail.com
+- 📫 How to reach me satrap18@yahoo.com
 
 <!---
 Satrap18/Satrap18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
