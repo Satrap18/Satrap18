@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- [](https://github.com/Satrap18/Satrap18/blob/main/ezgif-4-2897b922b7.gif)
 --->
+[![Symfony](https://github.com/Satrap18/first_website/actions/workflows/symfony.yml/badge.svg)](https://github.com/Satrap18/first_website/actions/workflows/symfony.yml)
