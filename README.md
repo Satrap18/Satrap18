@@ -26,11 +26,7 @@
 - Telegram: [@Satrap_18](https://t.me/Satrap_18)
 - Twitter: [@Satrap_18](https://twitter.com/Satrap_18)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Satrap18&theme=default&hide_border=true&border_radius=4.5&locale=en&date_format=YYYY.MM.DD&mode=weekly&ring=00D3A9&fire=00D3A9&currStreakNum=00D3A9&sideNums=00D3A9&currStreakLabel=00D3A9&sideLabels=00D3A9&background=000000)
-
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Satrap18&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&background=000000&fire=00D3A9&currStreakLabel=00D3A9&ring=00D3A9" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Satrap18&hide_border=true&mode=weekly&type=png&background=000000&fire=00D3A9&ring=00D3A9&currStreakLabel=00D3A9" alt="GitHub Streak" /></a>
 
 <p align="center">
   <img src="./startbanner.svg" alt="banner" width="100%" />
