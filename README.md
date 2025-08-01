@@ -28,7 +28,7 @@
 [![python-telegram-bot](https://img.shields.io/badge/-python--telegram--bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://github.com/python-telegram-bot/python-telegram-bot)  
 [![Telegram CLI](https://img.shields.io/badge/-Telegram%20CLI-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://github.com/vysheng/tg)  
 
-<br><br>
+<br>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&repeat=false&width=500&height=60&lines=%F0%9F%8C%90+Frontend+%26+Learning++" alt="Typing SVG" />
@@ -41,7 +41,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)  
 
-<br><br>
+<br>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&repeat=false&width=500&height=60&lines=%F0%9F%95%B8%EF%B8%8F+Web+Scraping+%2F+Automation++" alt="Typing SVG" />
@@ -54,7 +54,7 @@
 [![Scrapy](https://img.shields.io/badge/-Scrapy-73A1FB?style=flat-square&logo=scrapy&logoColor=white)](https://scrapy.org/)  
 [![Requests](https://img.shields.io/badge/-Requests-20232A?style=flat-square)](https://docs.python-requests.org/)  
 
-<br><br>
+<br>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%9B%A2%EF%B8%8F+Databases++" alt="Typing SVG" />
@@ -65,7 +65,7 @@
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)  
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)  
 
-<br><br>
+<br>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%94%A7+Tools+%26+Concepts++" alt="Typing SVG" />
@@ -78,7 +78,7 @@
 ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-4E9A06?style=flat-square)  
 ![OOP](https://img.shields.io/badge/-OOP-6A5ACD?style=flat-square)  
 
-<br><br>
+<br>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%90%A7+Linux+%26+Shell+" alt="Typing SVG" />
@@ -89,7 +89,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)  
 
-<br><br>
+<br>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%96%A5%EF%B8%8F+GUI+Development++" alt="Typing SVG" />
@@ -143,8 +143,8 @@
 
 ---
 
+![snake gif](https://github.com/Satrap18/Satrap18/blob/main/output/github-contribution-grid-snake.svg?raw=true)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 
 
