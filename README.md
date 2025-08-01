@@ -18,7 +18,12 @@
 ---
 
 ### 📊 GitHub Stats
-![Satrap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satrap18&show_icons=true&theme=dark)
+
+![Satrap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satrap18&show_icons=true&bg_color=000000&title_color=00D3A9&icon_color=00D3A9&text_color=ffffff&border_color=101010)
+
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Satrap18&theme=dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&fire=00D3A9&ring=00D3A9&currStreakLabel=00D3A9&stroke=00D3A9&dates=00D3A9&sideNums=00D3A9&sideLabels=00D3A9&border=00D3A9&currStreakNum=00D3A9" alt="GitHub Streak" /></a>
 
 ---
 
@@ -27,7 +32,6 @@
 - Twitter: [@Satrap_18](https://twitter.com/Satrap_18)
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Satrap18&theme=dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&fire=00D3A9&ring=00D3A9&currStreakLabel=00D3A9&stroke=00D3A9&dates=00D3A9&sideNums=00D3A9&sideLabels=00D3A9&border=00D3A9&currStreakNum=00D3A9" alt="GitHub Streak" /></a>
 
 
 
