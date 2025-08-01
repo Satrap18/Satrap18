@@ -25,3 +25,7 @@
 ### 📫 Let's connect!
 - Telegram: [@Satrap_18](https://t.me/Satrap_18)
 - Twitter: [@Satrap_18](https://twitter.com/Satrap_18)
+
+<p align="center">
+  <img src="./startbanner.svg" alt="banner" />
+</p>
