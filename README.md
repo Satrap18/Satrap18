@@ -122,6 +122,7 @@
 </a>
 
 </div>
+
 ---
 
 ## 🤝 Connect with me
@@ -143,7 +144,8 @@
 
 ---
 
-![snake gif](https://github.com/Satrap18/Satrap18/blob/main/output/github-contribution-grid-snake.svg?raw=true)
+![GitHub Contribution Snake](https://github.com/Satrap18/Satrap18/blob/main/dist/github-snake.svg?raw=true)
+
 
 
 
