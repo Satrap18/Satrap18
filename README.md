@@ -7,48 +7,16 @@
 </div>
 
 ---
-## 💼 My Skill Set
-
-<table><tr>
-<td valign="top" width="33%">
-
-### 🌐 Frontend  
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-</td><td valign="top" width="33%">
-
-### ⚙️ Backend  
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-</p>
-
-</td><td valign="top" width="33%">
-
-### 🛠️ DevOps & Tools  
-<p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="40"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/cython-original.svg" alt="Cython" height="40"/>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tkinter-FF69B4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-WSL-4D4D4D?style=flat-square&logo=windows&logoColor=white"/>
-</p>
-
-</td>
-</tr></table>
+[![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=flat-square)](#)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
