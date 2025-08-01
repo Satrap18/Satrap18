@@ -27,7 +27,7 @@
 - Twitter: [@Satrap_18](https://twitter.com/Satrap_18)
 
   
-<a href="https://github.com/Satrap18">
+<a href="https://git.io/streak-stats">
   <img
     src="https://streak-stats.demolab.com?user=Satrap18&hide_border=true&short_numbers=true&date_format=[Y.]n.j&mode=weekly&background=ffffff&fire=00D3A9&ring=00D3A9&currStreakLabel=00D3A9&stroke=00D3A9&dates=00D3A9&sideNums=00D3A9&sideLabels=00D3A9"
     alt="GitHub Streak" />
