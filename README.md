@@ -131,20 +131,30 @@
   <a href="https://github.com/Satrap18">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://t.me/Satrap18">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+989941274790">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
   <a href="https://dev.to/Satrap18">
     <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
   <a href="https://gitlab.com/Satrap18">
     <img src="https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/Satrap18">
+  <a href="https://stackoverflow.com/users/19928734/satrap18">
     <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
 </p>
 
 ---
 
-![GitHub Contribution Snake](https://github.com/Satrap18/Satrap18/blob/main/dist/github-snake.svg?raw=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Satrap18/Satrap18/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 
 
