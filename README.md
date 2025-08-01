@@ -26,6 +26,10 @@
 - Telegram: [@Satrap_18](https://t.me/Satrap_18)
 - Twitter: [@Satrap_18](https://twitter.com/Satrap_18)
 
+<svg viewBox="0 0 500 150" preserveAspectRatio="none" height="100" width="100%">
+  <path d="M0,30 C150,80 350,0 500,30 L500,150 L0,150 Z" style="stroke: none; fill: #0ca4a5;" />
+</svg>
+
 <p align="center">
   <img src="./startbanner.svg" alt="banner" width="100%" />
 </p>
