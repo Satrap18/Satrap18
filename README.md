@@ -24,6 +24,12 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Satrap18&theme=dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&fire=00D3A9&ring=00D3A9&currStreakLabel=CDC9B9&stroke=CDC9B9&dates=CDC9B9&sideNums=CDC9B9&sideLabels=CDC9B9&border=CDC9B9&currStreakNum=CDC9B9" alt="GitHub Streak" /></a>
 
+
+<a href="https://github.com/Satrap18">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satrap18&layout=compact&bg_color=000000&title_color=00D3A9&text_color=cdc9b9&icon_color=00D3A9&border_color=101010" alt="Top Languages" />
+</a>
+
+
 ---
 
 ### 📫 Let's connect!
