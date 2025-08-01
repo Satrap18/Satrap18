@@ -20,7 +20,7 @@
 
 <div align="center">
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00D3A9&width=500&height=60&lines=GitHub+Stats" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00D3A9&width=500&height=60&lines=GitHub+Stats" alt="Typing SVG" /></a>
 
 ![Satrap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satrap18&show_icons=true&bg_color=000000&title_color=00D3A9&icon_color=00D3A9&text_color=cdc9b9&border_color=101010)
 
