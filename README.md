@@ -27,5 +27,5 @@
 - Twitter: [@Satrap_18](https://twitter.com/Satrap_18)
 
 <p align="center">
-  <img src="./startbanner.svg" alt="banner" />
+  <img src="./startbanner.svg" alt="banner" width="600" />
 </p>
