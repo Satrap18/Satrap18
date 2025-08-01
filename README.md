@@ -7,15 +7,19 @@
 </div>
 
 ---
-<p align="center">
+<div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&repeat=false&width=500&height=60&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&repeat=false&width=500&height=60&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Typing SVG" />
+</a>
 
-<br/>
+<br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&repeat=false&width=500&height=60&lines=%F0%9F%92%BB+Backend++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&repeat=false&width=500&height=60&lines=%F0%9F%92%BB+Backend++" alt="Typing SVG" />
+</a>
 
-<br/>
+<br>
 
 [![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)  
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)  
@@ -24,67 +28,80 @@
 [![python-telegram-bot](https://img.shields.io/badge/-python--telegram--bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://github.com/python-telegram-bot/python-telegram-bot)  
 [![Telegram CLI](https://img.shields.io/badge/-Telegram%20CLI-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://github.com/vysheng/tg)  
 
-<br/>
+<br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&repeat=false&width=500&height=60&lines=%F0%9F%8C%90+Frontend+%26+Learning++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&repeat=false&width=500&height=60&lines=%F0%9F%8C%90+Frontend+%26+Learning++" alt="Typing SVG" />
+</a>
 
-<br/>
+<br>
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)  
 
-<br/>
+<br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&repeat=false&width=500&height=60&lines=%F0%9F%95%B8%EF%B8%8F+Web+Scraping+%2F+Automation++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&repeat=false&width=500&height=60&lines=%F0%9F%95%B8%EF%B8%8F+Web+Scraping+%2F+Automation++" alt="Typing SVG" />
+</a>
 
-<br/>
+<br>
 
 [![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup4-8A2BE2?style=flat-square)](https://pypi.org/project/beautifulsoup4/)  
 [![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)  
 [![Scrapy](https://img.shields.io/badge/-Scrapy-73A1FB?style=flat-square&logo=scrapy&logoColor=white)](https://scrapy.org/)  
 [![Requests](https://img.shields.io/badge/-Requests-20232A?style=flat-square)](https://docs.python-requests.org/)  
 
-<br/>
+<br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%9B%A2%EF%B8%8F+Databases++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%9B%A2%EF%B8%8F+Databases++" alt="Typing SVG" />
+</a>
 
-<br/>
+<br>
 
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)  
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)  
 
-<br/>
+<br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%94%A7+Tools+%26+Concepts++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%94%A7+Tools+%26+Concepts++" alt="Typing SVG" />
+</a>
 
-<br/>
+<br>
 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)  
 ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-4E9A06?style=flat-square)  
 ![OOP](https://img.shields.io/badge/-OOP-6A5ACD?style=flat-square)  
 
-<br/>
+<br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%90%A7+Linux+%26+Shell+" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%90%A7+Linux+%26+Shell+" alt="Typing SVG" />
+</a>
 
-<br/>
+<br>
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)  
 
-<br/>
+<br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%96%A5%EF%B8%8F+GUI+Development++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=CDC9B9&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%96%A5%EF%B8%8F+GUI+Development++" alt="Typing SVG" />
+</a>
 
-<br/>
+<br>
 
 ![Tkinter](https://img.shields.io/badge/-Tkinter-FF69B4?style=flat-square)  
 ![PyQt5](https://img.shields.io/badge/-PyQt5-41CD52?style=flat-square)  
 
-</p>
+</div>
+
 
 
 ---
