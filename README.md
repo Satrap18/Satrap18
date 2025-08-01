@@ -19,7 +19,7 @@
 
 ### 📊 GitHub Stats
 
-![Satrap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satrap18&show_icons=true&bg_color=000000&title_color=00D3A9&icon_color=00D3A9&text_color=ffffff&border_color=101010)
+![Satrap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satrap18&show_icons=true&bg_color=000000&title_color=00D3A9&icon_color=00D3A9&text_color=cdc9b9&border_color=101010)
 
 
 
