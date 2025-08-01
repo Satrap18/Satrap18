@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.gif" alt="banner" />
+</p>
+
+---
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00D3A9&width=500&height=60&lines=Hi+there!+%F0%9F%91%8B+I'm+MohammadReza;Python+Developer+%7C+Django+%7C+Bots+%26+APIs;I+build+automation%2C+scrapers+%26+real-world+toolsI+build+automation%2C+scrapers+%26+real-world+tools" alt="Typing SVG" /></a>
 </div>
