@@ -7,25 +7,47 @@
 </div>
 
 ---
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-💻 Python, Django, DRF  
+### 💻 Python, Django, DRF  
 [![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![DRF](https://img.shields.io/badge/-DRF-ff1709?style=flat-square&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
-🕸️ Web Scraping (BS4, Selenium)  
+---
+
+### 🕸️ Web Scraping / Bots  
 [![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup4-8A2BE2?style=flat-square)](https://pypi.org/project/beautifulsoup4/)
 [![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Scrapy](https://img.shields.io/badge/-Scrapy-73A1FB?style=flat-square&logo=scrapy&logoColor=white)](https://scrapy.org/)
+[![Requests](https://img.shields.io/badge/-Requests-20232A?style=flat-square)](https://docs.python-requests.org/)
+[![Telegram Bot](https://img.shields.io/badge/-python--telegram--bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://github.com/python-telegram-bot/python-telegram-bot)
+[![Telegram CLI](https://img.shields.io/badge/-Telegram%20CLI-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://github.com/vysheng/tg)
 
-🛢️ SQLite, MySQL  
+---
+
+### 🛢️ Databases  
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-🌐 APIs, Telegram Bots  
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api)
+---
 
-🧪 Learning: JavaScript & React  
+### 🧰 Tools & Concepts  
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-4E9A06?style=flat-square)
+![OOP](https://img.shields.io/badge/-OOP-6A5ACD?style=flat-square)
+
+---
+
+### 🖥️ GUI Development  
+![Tkinter](https://img.shields.io/badge/-Tkinter-FF69B4?style=flat-square)
+![PyQt5](https://img.shields.io/badge/-PyQt5-41CD52?style=flat-square)
+
+---
+
+### 🧪 Learning  
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
