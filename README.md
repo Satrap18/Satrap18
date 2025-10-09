@@ -110,7 +110,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00D3A9&center=true&vCenter=true&width=500&height=60&lines=GitHub+Stats" alt="Typing SVG" /></a>
 
-![Satrap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satrap18&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00D3A9&icon_color=00D3A9&text_color=cdc9b9&border_color=101010)
+![Satrap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satrap18&show_icons=true&count_private=true&include_all_commits=false&bg_color=000000&title_color=00D3A9&icon_color=00D3A9&text_color=cdc9b9&border_color=101010)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Satrap18&theme=dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly&fire=00D3A9&ring=00D3A9&currStreakLabel=CDC9B9&stroke=CDC9B9&dates=CDC9B9&sideNums=CDC9B9&sideLabels=CDC9B9&border=CDC9B9&currStreakNum=CDC9B9" alt="GitHub Streak" /></a>
 
