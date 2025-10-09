@@ -1,0 +1,33 @@
+name: Update GitHub Stats Card
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # هر روز رأس ساعت 00:00 UTC
+  workflow_dispatch:       # اجرا با دکمه دستی
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Checkout ریپو
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2️⃣ Generate stats using GitHub Readme Stats API
+      - name: Generate GitHub Stats
+        run: |
+          curl -H "Authorization: token ${{ secrets.PAT_1 }}" \
+               "https://github-readme-stats.vercel.app/api?username=${GITHUB_REPOSITORY_OWNER}&count_private=true&include_all_commits=true&show_icons=true&hide_title=false&theme=dark" \
+               -o stats.svg
+
+      # 3️⃣ Commit و push تغییرات
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats.svg
+          git commit -m "Update GitHub stats card"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
