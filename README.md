@@ -7,8 +7,7 @@
 </div>
 
 <div align="center">
-  🔗 <strong>Portfolio Website</strong><br>
-  <a href="https://satrap18.github.io">https://satrap18.github.io</a>
+  🔗 <a href="https://satrap18.github.io"><strong>Portfolio Website</strong><br></a>
 </div>
 
 ---
