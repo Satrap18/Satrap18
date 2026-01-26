@@ -10,7 +10,9 @@
   🔗 <strong>Portfolio Website</strong><br>
   <a href="https://satrap18.github.io">https://satrap18.github.io</a>
 </div>
+
 ---
+
 <div align="center">
 
 <a href="https://git.io/typing-svg">
