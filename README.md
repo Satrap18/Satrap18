@@ -167,6 +167,5 @@
 
 
 <p align="center">
-  <img src="./startbanner.svg" alt="banner" width="100%" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00D3A9&section=footer&reversal=true&textBg=false&fontAlign=0&fontAlignY=0" />
+  <img src="./Footer.svg" alt="banner" width="100%" />
 </p>
