@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img
     src="./Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.gif"
@@ -39,13 +38,13 @@ backend systems and automation solutions.
 
 My main focus is:
 
-- 🐍 Python development
-- 🌐 Django & Django REST Framework
-- 🔌 REST API development
-- 🤖 Telegram & Discord bots
-- 🕷️ Web scraping & data extraction
-- ⚙️ Automation
-- 🐧 Linux & server-side development
+* 🐍 Python development
+* 🌐 Django & Django REST Framework
+* 🔌 REST API development
+* 🤖 Telegram & Discord bots
+* 🕷️ Web scraping & data extraction
+* ⚙️ Automation
+* 🐧 Linux & server-side development
 
 I enjoy turning ideas into practical software and learning by building real-world projects.
 
@@ -59,26 +58,26 @@ I enjoy turning ideas into practical software and learning by building real-worl
 
 ### 🏗️ Backend Systems
 
-- Django applications
-- REST APIs
-- Authentication systems
-- Database-driven applications
-- Background tasks
-- Real-time features
-- Admin dashboards
+* Django applications
+* REST APIs
+* Authentication systems
+* Database-driven applications
+* Background tasks
+* Real-time features
+* Admin dashboards
 
     </td>
     <td width="50%" valign="top">
 
 ### 🤖 Bots & Automation
 
-- Telegram bots
-- Discord bots
-- Automated workflows
-- API integrations
-- Notification systems
-- Scheduled tasks
-- Utility tools
+* Telegram bots
+* Discord bots
+* Automated workflows
+* API integrations
+* Notification systems
+* Scheduled tasks
+* Utility tools
 
     </td>
   </tr>
@@ -88,29 +87,30 @@ I enjoy turning ideas into practical software and learning by building real-worl
 
 ### 🕷️ Web Scraping
 
-- BeautifulSoup
-- Scrapy
-- Selenium
-- Requests
-- Automated crawlers
-- Data extraction
-- Structured data collection
+* BeautifulSoup
+* Scrapy
+* Selenium
+* Requests
+* Automated crawlers
+* Data extraction
+* Structured data collection
 
     </td>
     <td width="50%" valign="top">
 
 ### 🌐 Web Applications
 
-- Backend architecture
-- API development
-- Frontend integration
-- Database design
-- Deployment
-- Linux servers
-- Nginx & Gunicorn
+* Backend architecture
+* API development
+* Frontend integration
+* Database design
+* Deployment
+* Linux servers
+* Nginx & Gunicorn
 
     </td>
   </tr>
+
 </table>
 
 ---
@@ -185,9 +185,11 @@ genre-based broadcasting and multi-platform integration.
 
 `Python` `Django` `WebSockets` `JavaScript`
 
-    </td>
+```
+</td>
 
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
+```
 
 ### 🔗 Linkify
 
@@ -198,7 +200,10 @@ built with a focus on practical backend functionality.
 
 `Python` `Django` `REST API`
 
-    </td>
+```
+</td>
+```
+
   </tr>
 
   <tr>
@@ -213,9 +218,11 @@ utility bots and API integrations.
 
 `Python` `APIs` `Automation`
 
-    </td>
+```
+</td>
 
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
+```
 
 ### 🕷️ Scraping Projects
 
@@ -226,7 +233,10 @@ for collecting and processing real-world data.
 
 `BeautifulSoup` `Scrapy` `Selenium`
 
-    </td>
+```
+</td>
+```
+
   </tr>
 </table>
 
@@ -307,4 +317,3 @@ for collecting and processing real-world data.
 <p align="center">
   <img src="./Footer.svg" alt="Footer" width="100%">
 </p>
-```
